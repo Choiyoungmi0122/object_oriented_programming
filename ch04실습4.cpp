@@ -30,6 +30,7 @@ int main(){
             count++;
             
     }
+    
     cout << "면적이 100보다 큰 원은 " << count << "개 입니다." <<endl;
     delete [] Array;
     
